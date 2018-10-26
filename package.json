@@ -1,0 +1,18 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "My personal blog.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skygr/blog.git"
+  },
+  "author": "skygr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skygr/blog/issues"
+  },
+  "homepage": "https://github.com/skygr/blog#readme"
+}
